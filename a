@@ -1,0 +1,45 @@
+[33mcommit 47d3477f0e90c4872036f6a57401dae332b9e97a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: e2a7a60 4a51e5a
+Author: Михаил <mixa.varuxa@gmail.com>
+Date:   Tue May 30 10:31:10 2023 +0300
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 4a51e5ac248ab52b37d27f3691d482f8c8c8d61e[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: 116b455 e4ca8b4
+Author: Miesiwo <93492256+Miesiwo@users.noreply.github.com>
+Date:   Tue May 30 10:30:39 2023 +0300
+
+    Merge pull request #1 from mihaVa/frontend
+    
+    Frontend
+
+[33mcommit e4ca8b4550975922afbd5639675073fbe9baf6f9[m[33m ([m[1;31morigin/frontend[m[33m)[m
+Author: udav-py <93492256+udav-py@users.noreply.github.com>
+Date:   Tue May 30 10:23:17 2023 +0300
+
+    index changes
+
+[33mcommit b2cf79c56cf5f7929c98ea353fd268656e479cc8[m[33m ([m[1;31morigin/frontendfeature[m[33m)[m
+Author: udav-py <93492256+udav-py@users.noreply.github.com>
+Date:   Tue May 30 10:18:19 2023 +0300
+
+    add frontend code
+
+[33mcommit e2a7a60618919959250c91a34171898ca91a6402[m[33m ([m[1;31morigin/backend[m[33m, [m[1;32mbackend[m[33m)[m
+Author: Михаил <mixa.varuxa@gmail.com>
+Date:   Tue May 30 10:16:37 2023 +0300
+
+    up code backend
+
+[33mcommit 9575a661f6a084def827aa6b463398b4c40a30c1[m[33m ([m[1;31morigin/backendfeature[m[33m, [m[1;32m–a[m[33m, [m[1;32mbackendfeature[m[33m)[m
+Author: Михаил <mixa.varuxa@gmail.com>
+Date:   Tue May 30 09:26:55 2023 +0300
+
+    add code backend
+
+[33mcommit 116b455d760dafed3f63a7533985635dd4708797[m[33m ([m[1;32m–M[m[33m, [m[1;32mfrontend[m[33m)[m
+Author: Михаил <mixa.varuxa@gmail.com>
+Date:   Tue May 30 09:12:34 2023 +0300
+
+    first commit
